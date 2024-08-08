@@ -1,0 +1,9 @@
+cosider range is in between 1 to 20
+consider the nu. 10
+high
+guss the number :15
+low
+guss the number :13
+low
+guss the number :12
+you great it correct
