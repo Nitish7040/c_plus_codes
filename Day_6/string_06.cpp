@@ -10,5 +10,3 @@ cout<<word.substr(4,2)<<endl;
 
     return 0;
 }
-
-

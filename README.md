@@ -3,9 +3,9 @@
 # Day 3 folder have Loops concept codes
 # Day 4 folder have funtion concept codes.
 # Day 5 folder have Arrays prac programs.
-# Day 6 folder have String programs.
+# Day 6 folder have String & Pointers programs..
 
-# function in string 
+#  <p href="https://www.geeksforgeeks.org/cpp-string-functions/"> function in string</p>
 compare function :----- <br>
 it gives diff of characters in terms of alphabetical order <br>
 a=1 ,b=2 <br>
