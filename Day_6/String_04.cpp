@@ -13,10 +13,7 @@ cout<<s.at(5)<<endl;
 cout<<s.replace(0,2,"  Nitish_is_good_boy  ")<<endl;
 cout<<endl;
 
-//compare function :-----
-// it gives diff of characters in terms of alphabetical order
-// a=1 ,b=2
-// b>a
+
 string s1 ="nitish";
 string s2="aditya";
 cout<<s1.compare(s2) <<endl;

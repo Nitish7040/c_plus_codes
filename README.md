@@ -13,5 +13,5 @@
 //___________________________________________
 
 string notation:-
- leftnotation :- rotating toward left which means right to left ....
+ leftnotation :- rotating toward left which means right to left ....<br>
  Right notation :- rotating toward right which means left to right ....
