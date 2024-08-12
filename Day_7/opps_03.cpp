@@ -1,3 +1,6 @@
+// parrot and egale speed :-----
+
+
 #include<iostream>
 #include<string>
 using namespace std;

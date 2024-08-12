@@ -1,4 +1,5 @@
 // Eagle parrot using user i/p
+
 #include<iostream>
 #include<string>
 using namespace std;
@@ -28,8 +29,5 @@ int main(){
         cout<<"enter hours : ";
         cin>>obj.hours;
         obj.totalfly_time_parrot(10 ,obj.hours);
-
-
-
     return 0;
 }
