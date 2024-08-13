@@ -41,4 +41,3 @@ int main()
     area = 3.14 * sq;
     cout << "Area of the Incircle of Right Angled Triangle : " << area;
 }
-
